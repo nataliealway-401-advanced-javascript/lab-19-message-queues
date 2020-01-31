@@ -5,11 +5,11 @@
 ### Author: Natalie Alway
 
 ### Links and Resources
-* [submission PR]()
-* [travis]()
+* [submission PR](https://github.com/nataliealway-401-advanced-javascript/lab-19-message-queues/pull/1)
+* [travis](https://www.travis-ci.com/nataliealway-401-advanced-javascript/lab-19-message-queues)
 
 ### Documentation
-* [jsdocs]()
+* [jsdocs](https://github.com/nataliealway-401-advanced-javascript/lab-19-message-queues/tree/lab19/docs)
 
 ### Setup
 #### How to initialize/run your server app:
